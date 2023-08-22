@@ -25,4 +25,4 @@ hs_err_pid*
 cloud_auth.json
 report.json
 features/*.feature
-target/
+#target/
